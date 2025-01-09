@@ -11,7 +11,7 @@ We analyzed publicly available datasets containing crime statistics, population 
 - Insights: Understanding the relationships between crime and factors like income, poverty, unemployment, and population.
 
 ## Tools and Technologies
-- Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, DuckDB), SQL
 - Libraries: Statsmodels, Plotly
 
 ## Contributors
